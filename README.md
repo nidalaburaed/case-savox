@@ -2,7 +2,7 @@
 
 The goal of the repository is to showcase Software Project Management capabilities of mine (Nidal Abu-Raed).
 
-Project related documents are available as official PDFs in the repository
+Project related documents are available as official PDFs in the repository for Download
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Overview
