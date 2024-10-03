@@ -4,6 +4,9 @@ The goal of the repository is to showcase Software Project Management capabiliti
 
 Project related documents are available as official PDFs in the repository for Download
 
+![image](https://github.com/user-attachments/assets/8ce8d39f-78d8-4b6f-872e-87ddec73737d)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project Overview
 
